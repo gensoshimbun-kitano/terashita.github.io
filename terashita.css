@@ -1,0 +1,147 @@
+.div-a{
+background-color: black;
+clear: both;
+height:72px;
+}
+
+.sub-aa{
+float:left;
+font-size: 250%;
+color:#ffff00;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px 0px;
+}
+
+.month{
+float:left;
+font-size: 250%;
+color:#ffffff;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px 0px;
+}
+
+.sub-ab{
+float:left;
+font-size: 250%;
+color:#ffff00;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px 0px;
+}
+
+.day{
+float:left;
+font-size: 250%;
+color:#ffffff;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px 0px;
+}
+
+.sub-ac{
+float:left;
+font-size: 250%;
+color:#ffff00;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px 0px;
+}
+
+.sub-b{
+float:left;
+font-size:150%;
+color:#ffffff;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+-ms-writing-mode:
+tb-rl;writing-mode:vertical-rl;
+}
+
+.sub-c{
+float:left;
+font-size:250%;
+color:#ffff00;
+fontfamily:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margin:10px;
+}
+
+.main{
+float: left;
+font-size: 170%;
+font-family:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+margn: 0px;
+-ms-writing-mode: tb-rl;
+writing-mode: vertical-rl;
+}
+
+.main-a{
+float: left;
+font-size: 750%;
+font-family:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+border: solid 6px #000;
+background-color:#ffffff;
+margin:0px;
+width:16%;
+padding:0px 0px 0px 30px;
+}
+
+.main-b{
+float: left;
+font-size: 750%;
+font-family:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+border: solid 6px #000;
+background-color:#ffffff;
+margin:0px;
+width:16%;
+padding:0px 0px 0px 30px;
+}
+
+.main-c{
+float: left;
+font-size: 750%;
+font-family:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+border:solid 6px #000;
+background-color:#ffffff;
+margin:0px;
+width:16%;
+padding:0px 0px 0px 30px;
+}
+
+.main-d{
+float:left;
+font-size: 750%;
+font-family:"Times New Roman", "YuMincho", "Hiragino Mincho ProN", "Yu Mincho", "MS PMincho", serif;
+border:solid 6px #000;
+background-color:#ffffff;
+margin:0px;
+width:16%;
+padding:0px 0px 0px 30px;
+}
+
+.foot-a{
+font-size:350%;
+font-family:yu mincho;
+margin:0px;
+}
+
+.foot-b{
+font-size:350%;
+font-family:yu mincho;
+margin:0px;
+}
+
+.foot-c{
+font-size:200%;
+font-family:yu mincho;
+margin:0px;
+}
+
+.space{
+height:100px;
+}
+
+.bonus{
+float:left;
+margin:0px;
+}
+
+.link{
+float:left;
+}
+
